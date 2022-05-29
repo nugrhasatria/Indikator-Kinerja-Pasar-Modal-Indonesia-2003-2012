@@ -1,0 +1,86 @@
+[
+    {
+        "PT BEI Indikator Kinerja Pasar Modal: Tahun 2003-2012":
+        [
+            {
+            "Year": "2003",
+            "Volume Perdagangan Saham": "234",
+            "Nilai Perdagangan Saham": "125.4",
+            "Emiten": "333",
+            "IHSG (Yearly)": "691.89"
+            },
+     
+            {
+            "Year": "2004",
+            "Volume Perdagangan Saham": "411.8",
+            "Nilai Perdagangan Saham": "247",
+            "Emiten": "331",
+            "IHSG (Yearly)": "1000.23"              
+            },
+           
+            {
+            "Year": "2005",
+            "Volume Perdagangan Saham": "401.9",
+            "Nilai Perdagangan Saham": "406",
+            "Emiten": "336",
+            "IHSG (Yearly)": "1162.63" 
+            },
+    
+            {
+            "Year": "2006",
+            "Volume Perdagangan Saham": "436.9",
+            "Nilai Perdagangan Saham": "445.7",
+            "Emiten": "344",
+            "IHSG (Yearly)": "1805.52"         
+            },
+    
+            {
+            "Year": "2007",
+            "Volume Perdagangan Saham": "1039.5",
+            "Nilai Perdagangan Saham": "1050.2",
+            "Emiten": "383",
+            "IHSG (Yearly)": "2745.83"
+            },
+    
+            {
+            "Year": "2008",
+            "Volume Perdagangan Saham": "787.85",
+            "Nilai Perdagangan Saham": "1064.53",
+            "Emiten": "396",
+            "IHSG (Yearly)": "1355.41"
+            },
+         
+            {
+            "Year": "2009",
+            "Volume Perdagangan Saham": "1467.66",
+            "Nilai Perdagangan Saham": "975.14",
+            "Emiten": "398",
+            "IHSG (Yearly)": "2534.36"
+            },
+         
+            {
+            "Year": "2010",
+            "Volume Perdagangan Saham": "1330.87",
+            "Nilai Perdagangan Saham": "1176.24",
+            "Emiten": "420",
+            "IHSG (Yearly)": "3703.51"
+            },
+        
+            {
+            "Year": "2011",
+            "Volume Perdagangan Saham": "1203.55",
+            "Nilai Perdagangan Saham": "1223.44",
+            "Emiten": "440",
+            "IHSG (Yearly)": "3821.99"
+            },
+         
+            {
+            "Year": "2012",
+            "Volume Perdagangan Saham": "1053.76",
+            "Nilai Perdagangan Saham": "1116.11",
+            "Emiten": "459",
+            "IHSG (Yearly)": "4316.69"
+            }
+        ]
+    }
+]   
